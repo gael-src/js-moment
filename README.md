@@ -1,3 +1,6 @@
-# js-moment
+# JS Moment
 
-Exercises
+JS and NodeExercises
+
+
+https://gael-src.github.io/
